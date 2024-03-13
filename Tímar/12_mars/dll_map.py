@@ -111,4 +111,4 @@ def hash(val):
 
     for i in enco_val:
 
-        
+        pass
